@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\dilum's workplace\\Our Project\\Techfalre project\\GameWeb\\gameProtal\\gameProtal\\gameProtal.csproj": {}
+  },
+  "projects": {
+    "G:\\dilum's workplace\\Our Project\\Techfalre project\\GameWeb\\gameProtal\\gameProtal\\gameProtal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\dilum's workplace\\Our Project\\Techfalre project\\GameWeb\\gameProtal\\gameProtal\\gameProtal.csproj",
+        "projectName": "gameProtal",
+        "projectPath": "G:\\dilum's workplace\\Our Project\\Techfalre project\\GameWeb\\gameProtal\\gameProtal\\gameProtal.csproj",
+        "packagesPath": "C:\\Users\\DilumT\\.nuget\\packages\\",
+        "outputPath": "G:\\dilum's workplace\\Our Project\\Techfalre project\\GameWeb\\gameProtal\\gameProtal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DilumT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
